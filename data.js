@@ -72,7 +72,7 @@ function getFruits() {
             {
                 id:1,
                 title: "Flare Fruit",
-                url: "/assets/Flare.jpg",
+                url: "./assets/Flare.jpg",
                 originalPrice: 800,
                 salePrice: 229.95,
                 rating: 4.5,
@@ -81,7 +81,7 @@ function getFruits() {
             {
                 id: 2,
                 title: "Pheonix",
-                url: "/assets/pheonix.jpg",
+                url: "./assets/pheonix.jpg",
                 originalPrice: 1000,
                 salePrice: 240.95,
                 rating: 5.0,
@@ -91,7 +91,7 @@ function getFruits() {
             {
                 id: 3,
                 title: "Operational Fruit",
-                url: "/assets/heart.jpg",
+                url: "./assets/heart.jpg",
                 originalPrice: 800,
                 salePrice: 300.95,
                 rating: 5.0,
@@ -100,7 +100,7 @@ function getFruits() {
             {
                 id: 4,
                 title: "Flower Fruit",
-                url: "/assets/flower.jpg",
+                url: "./assets/flower.jpg",
                 originalPrice: 600,
                 salePrice: 220.95,
                 rating: 3,
@@ -110,7 +110,7 @@ function getFruits() {
             {
                 id: 5,
                 title: "Stone Fruit",
-                url: "/assets/stone.jpg",
+                url: "./assets/stone.jpg",
                 originalPrice: 700,
                 salePrice: 230.95,
                 rating: 4,
@@ -120,7 +120,7 @@ function getFruits() {
             {
                 id: 6,
                 title: "Ice Fruit",
-                url: "/assets/ice.jpg",
+                url: "./assets/ice.jpg",
                 originalPrice: 950,
                 salePrice: 450.95,
                 rating: 5.0,
@@ -131,7 +131,7 @@ function getFruits() {
             {
                 id: 7,
                 title: "Lava Fruit",
-                url: "/assets/lava.jpg",
+                url: "./assets/lava.jpg",
                 originalPrice: 950,
                 salePrice: 450.95,
                 rating: 4.5,
@@ -141,7 +141,7 @@ function getFruits() {
             {
                 id: 8,
                 title: "Springy Fruit",
-                url: "/assets/mochi.jpg",
+                url: "./assets/mochi.jpg",
                 originalPrice: 900,
                 salePrice: 450.95,
                 rating: 5.0,
